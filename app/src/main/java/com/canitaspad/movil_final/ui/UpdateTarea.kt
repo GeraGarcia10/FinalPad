@@ -44,7 +44,6 @@ import coil.compose.AsyncImage
 import com.canitaspad.movil_final.AppViewModelProvider
 import com.canitaspad.movil_final.ComposeFileProvider
 import com.canitaspad.movil_final.InventoryTopAppBar
-import com.canitaspad.movil_final.NavigationDestination2
 import com.canitaspad.movil_final.R
 import com.canitaspad.movil_final.VideoPlayer
 import com.canitaspad.movil_final.viewModel.NotasEditorViewModel

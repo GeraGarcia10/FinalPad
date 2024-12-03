@@ -39,7 +39,6 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.canitaspad.movil_final.AppViewModelProvider
 import com.canitaspad.movil_final.InventoryTopAppBar
-import com.canitaspad.movil_final.NavigationDestination
 import com.canitaspad.movil_final.R
 import com.canitaspad.movil_final.model.Nota
 import com.canitaspad.movil_final.viewModel.NotaDetailsUiState
