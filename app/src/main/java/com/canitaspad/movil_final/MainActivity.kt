@@ -1,5 +1,6 @@
+//main
 package com.canitaspad.movil_final
-
+//imports
 import android.app.Activity
 import android.content.res.Configuration
 import android.net.Uri
